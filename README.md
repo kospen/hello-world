@@ -1,8 +1,8 @@
 # hello-world
 First Step
 
+Hi  PEOPLE
 
-Hi 
+This is my firs steps in Git Hub !!!
 
-This is my firs steps in Git Hub :)
-or maybe second but for everyting there is a first time
+Soft Uni traying to teach me but  i am stupid
